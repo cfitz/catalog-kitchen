@@ -1,0 +1,11 @@
+{   
+  "new_relic": { 
+    "app_name" : "catalog-dev.wmu.se"
+  },
+  "server_name": "catalog-dev.wmu.se",
+  "environment" : "development",
+  "run_list": [
+    "recipe[catalog::requirements]", 
+    "recipe[catalog::default]"
+  ]
+}

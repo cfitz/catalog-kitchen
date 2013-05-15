@@ -1,0 +1,15 @@
+# default: on
+# description: Gmail SMTP wrapper for clients without SSL support
+# Thanks to http://ubuntuforums.org/showthread.php?t=918335 for this install guide
+service gmail-smtp
+{
+    disable         = no
+    bind            = localhost
+    port            = 10025
+    socket_type     = stream
+    protocol        = tcp
+    wait            = no
+    user            = root
+    server          = /usr/bin/gmail-smtp
+    type            = unlisted
+}

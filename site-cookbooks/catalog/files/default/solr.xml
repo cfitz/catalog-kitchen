@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<solr persistent="true">
+    <cores adminPath="/admin/cores" defaultCoreName="blacklight-core" host="${host:}" hostPort="${jetty.port:}" hostContext="${hostContext:}" zkClientTimeout="${zkClientTimeout:15000}">
+      <core name="blacklight-core" instanceDir="blacklight-core" />
+    </cores>
+</solr>

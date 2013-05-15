@@ -1,0 +1,5 @@
+/cookbooks/
+/tmp/librarian/
+.chef/
+libraries/secret_key
+data_bag_key

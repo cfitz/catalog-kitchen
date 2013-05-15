@@ -1,0 +1,21 @@
+{
+  "id": "rails",
+  "user": {
+    "encrypted_data": "IOWz2t10tWoDAZTiGeGlT0fdYQs4YzGf2340Q0tgj+k=\n",
+    "iv": "NUF7sH9HLefcpQGDGzzSLw==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "password": {
+    "encrypted_data": "dxTvwwtBwTN987WvvM/CiTp9CTQtigaXd5upxa+2nE4=\n",
+    "iv": "G3NjIhvT2S+QwKw/F3siSA==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "database": {
+    "encrypted_data": "WPnZw7gkL9SyMGpdqiQAy6mWlLUwSMmUXRAvn5CDGu4=\n",
+    "iv": "TFphby0AjZIr9MYFdCWJJg==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}

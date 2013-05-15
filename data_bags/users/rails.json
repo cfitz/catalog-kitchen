@@ -1,0 +1,14 @@
+{
+    "id": "rails",
+    "password": "$6$LiCbN7UPs$Q9UkDEn6mqpUMKaJUb1toe.B/FVcz8u5l013IxMOAHTJ.SjwjIFDDJrVYduWVjH46kQWbMjTWwaPfUt.XWfDN1",
+    "groups": [  "jetty" ],
+    "ssh_keys": [
+        "ssh-rsa Assh-rsa AAAAAANNND YOUR PUBLIC SSH KEY GOES HERE AGAIN....."
+    ],
+    "homesick_castles": [
+        {
+            "name": "dotfiles",
+            "source": "git://github.com/cfitz/dotfiles.git"
+        }
+    ]
+}

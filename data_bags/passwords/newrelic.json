@@ -1,0 +1,15 @@
+{
+  "id": "newrelic",
+  "repository_key": {
+    "encrypted_data": "l+hbpqytsAXMS5poMpVO0ng34w2Fmsm08EHOnjehGis=\n",
+    "iv": "xp7jxwWxfL/d7FCP7YF1Jw==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "license_key": {
+    "encrypted_data": "foOfy24NDaOpp+VYgyXxwhqfO+irmbEwjGcgVnhav3BG7gRlm1KNGEvG+FAT\nMxMmADzS9xvU+XWFbd97MJYVwQ==\n",
+    "iv": "iwG49cBhpAQhZo9u8SY7Ig==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "id": "chrisfitzpatrick",
+    "password": "$6$LiCbN7UPs$Q9UkDEn6mqpUMKaJUb1toe.B/FVcz8u5l013IxMOAHTJ.SjwjIFDDJrVYduWVjH46kQWbMjTWwaPfUt.XWfDN1",
+    "groups": [
+        "sudo"
+    ],
+    "ssh_keys": [
+        "ssh-rsa AAAAAANNND YOUR PUBLIC SSH KEY GOES HERE....."
+    ],
+    "homesick_castles": [
+        {
+            "name": "dotfiles",
+            "source": "git://github.com/cfitz/dotfiles.git"
+        }
+    ]
+}

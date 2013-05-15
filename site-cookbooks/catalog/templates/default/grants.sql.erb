@@ -1,0 +1,4 @@
+GRANT ALL ON <%= @database %>.* TO '<%= @user %>'@'%' IDENTIFIED BY '<%= @password %>';
+GRANT ALL ON <%= @database %>.* TO '<%= @user %>'@'127.0.0.1' IDENTIFIED BY '<%= @password %>';
+
+FLUSH PRIVILEGES;

@@ -1,0 +1,9 @@
+{
+  "id": "system",
+  "debian-sys-maint": {
+    "encrypted_data": "KHBR+E/qxw/SJsSU8+JcgHL0/ph3tQaMjKUd2WbBk8g=\n",
+    "iv": "KCWREh3KzdEK3qNOBYCU3g==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}
